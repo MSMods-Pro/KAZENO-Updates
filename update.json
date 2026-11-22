@@ -1,0 +1,15 @@
+{
+  "updateEnabled": true,
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "",
+  "mandatory": false,
+  "minimumSupportedVersion": 1,
+  "releaseNotes": [
+    "Performance improvements",
+    "Bug fixes",
+    "Stability improvements"
+  ],
+  "fileSize": 0,
+  "checksum": ""
+}
