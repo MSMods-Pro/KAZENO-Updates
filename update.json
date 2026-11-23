@@ -2,14 +2,14 @@
   "updateEnabled": true,
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "",
+  "apkUrl": "https://github.com/YOUR_USERNAME/KAZENO-Updates/releases/download/v1.1/KAZENO-1.1.apk",
   "mandatory": false,
   "minimumSupportedVersion": 1,
   "releaseNotes": [
-    "Performance improvements",
-    "Bug fixes",
-    "Stability improvements"
+    "Improved performance",
+    "Fixed bugs",
+    "Improved stability"
   ],
-  "fileSize": 0,
-  "checksum": ""
+  "fileSize": 31457280,
+  "checksum": "YOUR_ACTUAL_64_CHARACTER_SHA256"
 }
