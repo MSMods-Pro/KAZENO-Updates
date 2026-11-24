@@ -1,5 +1,5 @@
 {
-  "updateEnabled": false,
+  "updateEnabled": true,
   "versionCode": 2,
   "versionName": "1.1",
   "apkUrl": "https://github.com/MSMods-Pro/KAZENO-Updates/releases/download/v1.1/app-release-unsigned_sign.apk",
@@ -11,5 +11,5 @@
     "Improved stability"
   ],
   "fileSize": 5242880,
-  "checksum": "ee216d3d04fc17b82d5f6b94979c8b73946f009948058571e173a1dc2374dd88"
+  "checksum": "b6a0bcf4e5602754483b7e8a66d924c8f7f0db6d2082ef63ccca84439735ba59"
 }
